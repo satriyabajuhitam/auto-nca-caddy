@@ -76,10 +76,10 @@ The script will prompt you for the following information:
 *   **Enter desired hostname for this VPS:** (e.g., `myvps`) - This will set the hostname of your server.
 *   **Enter timezone:** (e.g., `Asia/Jakarta`) - Sets the system's timezone.
 *   **Enter swapfile size:** (e.g., `2G`) - Creates a swap file for better memory management.
-*   **Enter API Key for nca-toolkit:** (e.g., `3NHfia7KgkK26K4wLWE84vQFdF2495XU`) - Your `nca-toolkit` API key.
-*   **Enter S3 Endpoint URL:** (e.g., `https://a25e914db58f76a9bf7c2c9517b475f0.r2.cloudflarestorage.com`) - Cloudflare R2 S3 endpoint.
-*   **Enter S3 Access Key:** (e.g., `267663438d579d8edba018240c9c730e`) - Cloudflare R2 S3 access key.
-*   **Enter S3 Secret Key:** (e.g., `44185c6b00caff9e6822b8885d1ff8ce26635ebbab4c55959b08e528f1da4a41`) - Cloudflare R2 S3 secret key.
+*   **Enter API Key for nca-toolkit:** (e.g., `3NHfia7KgkK26K4wLWE84vQFdF2495XU1`) - Your `nca-toolkit` API key.
+*   **Enter S3 Endpoint URL:** (e.g., `https://a25e914db58f76a9bf7c2c9517b475f02.r2.cloudflarestorage.com`) - Cloudflare R2 S3 endpoint.
+*   **Enter S3 Access Key:** (e.g., `267663438d579d8edba018240c9c730e3`) - Cloudflare R2 S3 access key.
+*   **Enter S3 Secret Key:** (e.g., `44185c6b00caff9e6822b8885d1ff8ce26635ebbab4c55959b08e528f1da4a414`) - Cloudflare R2 S3 secret key.
 *   **Enter S3 Bucket Name:** (e.g., `automator`) - Cloudflare R2 bucket name.
 *   **Enter S3 Region:** (e.g., `apac`) - Cloudflare R2 bucket region.
 *   **Enter domain for nca-toolkit:** (e.g., `https://nca.example.com`) - This is the domain Caddy will use for HTTPS access to `nca-toolkit`. **Ensure your DNS A record points to your VPS IP.**
